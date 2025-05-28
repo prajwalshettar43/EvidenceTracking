@@ -81,7 +81,7 @@ evidence-system/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/evidence-system.git
+git clone https://github.com/prajwalshettar43/EvidenceTracking.git
 cd evidence-system
 ```
 
@@ -97,7 +97,7 @@ ipfs daemon
 ```bash
 cd blockchain
 ./network.sh up createChannel -ca
-./network.sh deployCC -ccn evidencemanager -ccp ../chaincode/ -ccl javascript
+Other scripts to commit the chaincode are given in repository [-Fabric scripts](https://github.com/prajwalshettar43/fabric-scripts.git)
 ```
 
 ### 4. Install Dependencies
