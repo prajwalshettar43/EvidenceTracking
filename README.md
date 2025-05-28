@@ -97,8 +97,9 @@ ipfs daemon
 ```bash
 cd blockchain
 ./network.sh up createChannel -ca
-Other scripts to commit the chaincode are given in repository [-Fabric scripts](https://github.com/prajwalshettar43/fabric-scripts.git)
+
 ```
+Other scripts to commit the chaincode are given in repository [-Fabric scripts](https://github.com/prajwalshettar43/fabric-scripts.git)
 
 ### 4. Install Dependencies
 
